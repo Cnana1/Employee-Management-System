@@ -1,0 +1,30 @@
+# Maven build directory
+/employee-management-system/target/
+*.class
+
+# IDE specific files
+/.idea/
+/*.iml
+/.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Java keystores and SSL certificates
+*.jks
+*.p12
+
+# Backup files
+*~
+*.bak
+
+# Node.js dependencies
+/node_modules/
+
+# Python virtual environment
+/venv/
+/__pycache__/
